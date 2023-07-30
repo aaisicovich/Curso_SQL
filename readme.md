@@ -9,6 +9,8 @@ Curso de SQL
 
 ## Documentation
 
+En Issues se encuentra un lugar para dejar comentarios sobre la entrega
+
 PreEntrega 1
 Presentacion del proyecto y creacion de tablas 
 
