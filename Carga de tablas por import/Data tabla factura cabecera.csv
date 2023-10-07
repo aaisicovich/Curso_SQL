@@ -1,0 +1,31 @@
+usuario_dni,ticket_numero,metodo_pago
+38765432,12,credit card
+29876543,26,credit card
+40109876,2,Apple Pay
+22543210,5,PayPal
+29876543,17,debit card
+38765432,28,PayPal
+22543210,16,credit card
+41234567,14,debit card
+40109876,27,credit card
+28901234,14,PayPal
+29876543,15,credit card
+38210987,26,credit card
+39567890,25,Venmo
+22543210,9,debit card
+29876543,19,debit card
+41234567,12,Apple Pay
+22543210,20,Apple Pay
+39567890,16,Apple Pay
+40109876,25,debit card
+39567890,13,Apple Pay
+40109876,23,debit card
+38210987,24,Venmo
+21876543,25,Apple Pay
+41234567,6,Venmo
+29876543,2,PayPal
+22543210,13,debit card
+20123456,2,debit card
+38765432,4,Google Pay
+40109876,27,credit card
+41654321,9,Apple Pay
